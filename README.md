@@ -15,7 +15,7 @@ Requires golang to be installed and the gopath set
 ### Installation
 
 ```
-go get github.com/peter-macharia/urlencoder
+go get github.com/c3phas/urlencoder
 
 ```
 
